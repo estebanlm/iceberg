@@ -5,10 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"acceptButton",
-		"cancelButton"
-	],
+	"instvars" : [ ],
 	"name" : "IceTipDialog",
 	"type" : "normal"
 }
